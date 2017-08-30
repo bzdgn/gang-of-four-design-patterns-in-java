@@ -29,10 +29,10 @@ I'm uploading this project to git in order to self learning and recap my design 
 
 ### Singleton
 
-#### Pros and Cons
+#### 1. Pros and Cons
 asdfasdf
 
-#### Dummy
+#### 2. Dummy
 adfasdf
 
 ### Builder
