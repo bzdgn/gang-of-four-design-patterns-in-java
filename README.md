@@ -6,6 +6,6 @@ I'm uploading this project to git in order to self learning and recap my design 
 
 ##A - [Creational Design Patterns](src/gof_design_patterns_a_creational/dummy1.java)
 
-##B - [Structural Design Patterns](src/gof_design_patterns_b_structural/dummy1.java)
+##B - [Structural Design Patterns](src/gof_design_patterns_b_structural/dummy2.java)
 
-##C - [Behavioral Design Patterns](src/gof_design_patterns_c_behavioral/dummy1.java)
+##C - [Behavioral Design Patterns](src/gof_design_patterns_c_behavioral/dummy3.java)
