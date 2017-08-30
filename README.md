@@ -7,8 +7,10 @@ I'm uploading this project to git in order to self learning and recap my design 
 ## Creational Design Patterns
 
 * [A - Creational Design Patterns](src/gof_design_patterns_a_creational)
-	1. [Singleton Pattern](src/gof_design_patterns_a_creational/p01_singleton/dum1.java)
+	1. [Singleton Pattern](src/gof_design_patterns_a_creational/p01_singleton)
 		1. [Singleton Everyday Demo](src/gof_design_patterns_a_creational/p01_singleton/SingletonEverydayDemo.java)
+		2. [Static Db Singleton Class](src/gof_design_patterns_a_creational/p01_singleton/DbSingleton.java)
+		3. [Static Db Singleton Demo](src/gof_design_patterns_a_creational/p01_singleton/DbSingletonDemo.java)
 	2. [Builder Pattern](src/gof_design_patterns_a_creational/p02_builder/dum2.java)
 	3. [Prototype Pattern](src/gof_design_patterns_a_creational/p03_prototype/dum3.java)
 	4. [Factory Pattern](src/gof_design_patterns_a_creational/p04_factory/dum4.java)
