@@ -1,8 +1,18 @@
 package gof_design_patterns_a_creational.p01_singleton;
 
+/*
+ * The primitive Singleton example class
+ * Notify that instance is stored in a static reference and it is not thread safe.
+ * 
+ * Also the instance is not Lazy Loaded but Eagerly Loaded so the instance is instantiated
+ * as the JVM starts.
+ */
 public class DbSingleton {
 	
-	// instance is the reference to the unique static Singleton class instance
+	/*
+	 * Instance is the reference to the unique static Singleton class instance.
+	 * The instance is eagerly loaded which means, it is created as the JVM starts.
+	 */
 	private static DbSingleton instance = new DbSingleton();
 	
 	/*
