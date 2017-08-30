@@ -20,3 +20,25 @@ I'm uploading this project to git in order to self learning and recap my design 
 ## Behavioral Design Patterns
 
 * [C - Behavioral Design Patterns](src/gof_design_patterns_c_behavioral/dummy3.java)
+
+*******
+
+# Design Patterns Notes
+
+## Creational Design Patterns
+
+### Singleton
+
+#### Pros and Cons
+asdfasdf
+
+#### Dummy
+adfasdf
+
+### Builder
+
+### Prototype
+
+### Factory
+
+### Abstract Factory
