@@ -30,9 +30,9 @@ I'm uploading this project to git in order to self learning and recap my design 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1. Singleton
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singleton guarantees only one instance of the class is going to be created. It guarantees the control of a resource. Singleton is a creational design pattern thus the instantiation of the class is controlled by the implementation of this pattern. It is usually lazily loaded.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singleton guarantees only one instance of the class is going to be created. It guarantees the control of a resource. Singleton is a creational design pattern thus the instantiation of the class is controlled by the implementation of this pattern. It is usually lazily loaded. Singleton is responsible for creating itself and managing its own lifecycle. It is static in nature but it is not implemented using a static class typically. Because in order to make the implementation thread-safe, it is not build-up with static class. The constructor of the singleton is private so that other than the class itself, no other class can call the constructor of the Singleton class. And the reference to the class instance, which can only be only unique per runtime environment, is also stored as private so that only the class itself can reach and control its lifecycle.
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples;
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java Runtime Environment, Logger, Spring Beans(they are Singleton's by default), Graphics Managers
 
 
