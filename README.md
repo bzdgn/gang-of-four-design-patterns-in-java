@@ -25,9 +25,9 @@ I'm uploading this project to git in order to self learning and recap my design 
 
 # Design Patterns Notes
 
-## &nbsp;&nbsp;&nbsp;&nbsp; Creational Design Patterns
+## A - Creational Design Patterns
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Singleton
+### &nbsp;&nbsp;&nbsp;&nbsp;Singleton
 
 #### 1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pros and Cons
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asdfasdf
