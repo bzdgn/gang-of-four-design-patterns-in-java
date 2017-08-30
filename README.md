@@ -6,7 +6,7 @@ I'm uploading this project to git in order to self learning and recap my design 
 
 [Singleton Pattern](src/gof_design_patterns_a_creational/p01_singleton/dum1.java)
 
-## * [A - Creational Design Patterns](src/gof_design_patterns_a_creational)
+* [A - Creational Design Patterns](src/gof_design_patterns_a_creational)
 	1. [Singleton Pattern](src/gof_design_patterns_a_creational/p01_singleton/dum1.java)
 	2. [Builder Pattern](src/gof_design_patterns_a_creational/p02_builder/dum2.java)
 	3. [Prototype Pattern](src/gof_design_patterns_a_creational/p03_prototype/dum3.java)
@@ -14,7 +14,5 @@ I'm uploading this project to git in order to self learning and recap my design 
 	5. [Abstract Factory Pattern](src/gof_design_patterns_a_creational/p05_abstract_factory/dum5.java)
 
 * [B - Structural Design Patterns](src/gof_design_patterns_b_structural/dummy2.java)
-	1. [Singleton Pattern](src/gof_design_patterns_a_creational/p01_singleton/dum1.java)
-	2. [Builder Pattern](src/gof_design_patterns_a_creational/p02_builder/dum2.java)
 
-## C - [Behavioral Design Patterns](src/gof_design_patterns_c_behavioral/dummy3.java)
+* [C - Behavioral Design Patterns](src/gof_design_patterns_c_behavioral/dummy3.java)
