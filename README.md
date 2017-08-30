@@ -27,7 +27,7 @@ I'm uploading this project to git in order to self learning and recap my design 
 
 ## A - Creational Design Patterns
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Singleton
+### &nbsp;&nbsp;&nbsp;&nbsp;1. Singleton
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pros and Cons
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asdfasdf
@@ -35,10 +35,10 @@ I'm uploading this project to git in order to self learning and recap my design 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dummy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adfasdf
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Builder
+### &nbsp;&nbsp;&nbsp;&nbsp;2. Builder
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Prototype
+### &nbsp;&nbsp;&nbsp;&nbsp;3. Prototype
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Factory
+### &nbsp;&nbsp;&nbsp;&nbsp;4. Factory
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Abstract Factory
+### &nbsp;&nbsp;&nbsp;&nbsp;5. Abstract Factory
